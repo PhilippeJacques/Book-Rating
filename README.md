@@ -48,6 +48,6 @@ This project was carried out as part of the preparation for an MSC in Data Scien
 
 The members of the project group are :
  - Philippe FOGOUM - Data engineering
- - Said HAMDI - Data science
+ - Saïd HAMDI - Data science
  - David BEGARIN - Data science
  - Guillaume NONY - Data science
