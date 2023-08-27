@@ -51,3 +51,10 @@ The members of the project group are :
  - Saïd HAMDI - Data science
  - David BEGARIN - Data science
  - Guillaume NONY - Data science
+
+### How to run the project : 
+Open PhilippeBookPredVersion6-1.ipynb  in your favorite IDE, or better still on github, following whet you will see the button, Open in collab, on which you can click to launch the project.
+The Project goes from top to bottom on collab, the top being the initial stages of the project.
+Google collab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs.
+
+### The other .ipynb files of the repository noted from PhilippeBookPredVersion1.ipynb to PhilippeBookPredVersion6.ipynb shows the advances made at each stage of our work.
